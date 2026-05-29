@@ -1,10 +1,11 @@
-# Projects Portfolio – Yonny Serrano
+# Technical Portfolio – Yonny Serrano
 
 > Direct applications of Data Science, Analytics, Large Language Models (LLM), Generative AI, and emerging field disciplines.
 
 ---
 
 ## Projects
+> Click on each project link to find out more.
 
 ### [A2SIT — Community Prioritization & Vulnerability Analysis](./a2sit/README.md)
 
